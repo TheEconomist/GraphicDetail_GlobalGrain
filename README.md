@@ -1,0 +1,1 @@
+# GraphicDetail_GlobalGrain
