@@ -1,0 +1,16 @@
+"Continent","Continent ID","Country","Country ID","ISO 3","Trade Value","Year"
+"Asia","as","Azerbaijan","asaze","aze",8,2020
+"Asia","as","Georgia","asgeo","geo",622,2020
+"Asia","as","Iran","asirn","irn",505786,2020
+"Asia","as","Israel","asisr","isr",8003,2020
+"Asia","as","Kazakhstan","askaz","kaz",1493462.0000000002,2020
+"Asia","as","Kyrgyzstan","askgz","kgz",67,2020
+"Asia","as","Turkmenistan","astkm","tkm",10470,2020
+"Europe","eu","Belarus","eublr","blr",2270864,2020
+"Europe","eu","Germany","eudeu","deu",111,2020
+"Europe","eu","Spain","euesp","esp",1411,2020
+"Europe","eu","Estonia","euest","est",48,2020
+"Europe","eu","United Kingdom","eugbr","gbr",3175,2020
+"Europe","eu","Moldova","eumda","mda",26685.999999999996,2020
+"Europe","eu","Poland","eupol","pol",3986,2020
+"Europe","eu","Ukraine","euukr","ukr",9.000000000000002,2020

@@ -1,0 +1,113 @@
+"Continent","Continent ID","Country","Country ID","ISO 3","Trade Value","Year"
+"Africa","af","Angola","afago","ago",46093795,2020
+"Africa","af","Burundi","afbdi","bdi",4633672.000000001,2020
+"Africa","af","Benin","afben","ben",4735102.999999999,2020
+"Africa","af","Burkina Faso","afbfa","bfa",1929107,2020
+"Africa","af","Cote d'Ivoire","afciv","civ",13013466,2020
+"Africa","af","Cameroon","afcmr","cmr",81823834,2020
+"Africa","af","Democratic Republic of the Congo","afcod","cod",92759924,2020
+"Africa","af","Republic of the Congo","afcog","cog",40196888.00000001,2020
+"Africa","af","Cape Verde","afcpv","cpv",5317556,2020
+"Africa","af","Djibouti","afdji","dji",4071684,2020
+"Africa","af","Algeria","afdza","dza",1358099,2020
+"Africa","af","Egypt","afegy","egy",4445200945,2020
+"Africa","af","Ethiopia","afeth","eth",52602418,2020
+"Africa","af","Gabon","afgab","gab",2713395.9999999995,2020
+"Africa","af","Ghana","afgha","gha",48560249,2020
+"Africa","af","Guinea","afgin","gin",12567450,2020
+"Africa","af","Gambia","afgmb","gmb",11016270,2020
+"Africa","af","Kenya","afken","ken",143409675,2020
+"Africa","af","Liberia","aflbr","lbr",2545093,2020
+"Africa","af","Libya","aflby","lby",146338044,2020
+"Africa","af","Morocco","afmar","mar",286461051,2020
+"Africa","af","Madagascar","afmdg","mdg",16723515,2020
+"Africa","af","Mali","afmli","mli",29201478,2020
+"Africa","af","Mozambique","afmoz","moz",103025529,2020
+"Africa","af","Mauritania","afmrt","mrt",56663571,2020
+"Africa","af","Malawi","afmwi","mwi",27220726,2020
+"Africa","af","Namibia","afnam","nam",17831358,2020
+"Africa","af","Nigeria","afnga","nga",556174742,2020
+"Africa","af","Rwanda","afrwa","rwa",13832878.999999998,2020
+"Africa","af","Sudan","afsdn","sdn",306818365,2020
+"Africa","af","Senegal","afsen","sen",138771376,2020
+"Africa","af","Somalia","afsom","som",15879508.000000002,2020
+"Africa","af","Eswatini","afswz","swz",726280,2020
+"Africa","af","Togo","aftgo","tgo",19659963,2020
+"Africa","af","Tunisia","aftun","tun",218359845,2020
+"Africa","af","Tanzania","aftza","tza",163082774.99999997,2020
+"Africa","af","Uganda","afuga","uga",57057588,2020
+"Africa","af","South Africa","afzaf","zaf",128839578,2020
+"Africa","af","Zimbabwe","afzwe","zwe",14706601,2020
+"Asia","as","Afghanistan","asafg","afg",1068413,2020
+"Asia","as","United Arab Emirates","asare","are",149154019,2020
+"Asia","as","Armenia","asarm","arm",63816543,2020
+"Asia","as","Azerbaijan","asaze","aze",284074944,2020
+"Asia","as","Bangladesh","asbgd","bgd",703708240,2020
+"Asia","as","China","aschn","chn",12269764,2020
+"Asia","as","Cyprus","ascyp","cyp",7091286,2020
+"Asia","as","Georgia","asgeo","geo",94621323,2020
+"Asia","as","Hong Kong","ashkg","hkg",120406,2020
+"Asia","as","Indonesia","asidn","idn",544945400,2020
+"Asia","as","Iraq","asirq","irq",12832,2020
+"Asia","as","Israel","asisr","isr",161561715,2020
+"Asia","as","Jordan","asjor","jor",157152013,2020
+"Asia","as","Kazakhstan","askaz","kaz",86386102,2020
+"Asia","as","Kyrgyzstan","askgz","kgz",28237284,2020
+"Asia","as","Cambodia","askhm","khm",190903,2020
+"Asia","as","South Korea","askor","kor",78053039,2020
+"Asia","as","Kuwait","askwt","kwt",138170,2020
+"Asia","as","Laos","aslao","lao",583200,2020
+"Asia","as","Lebanon","aslbn","lbn",292939053,2020
+"Asia","as","Sri Lanka","aslka","lka",114730368,2020
+"Asia","as","Myanmar","asmmr","mmr",10617071,2020
+"Asia","as","Mongolia","asmng","mng",44898902.00000001,2020
+"Asia","as","Malaysia","asmys","mys",84041093,2020
+"Asia","as","Oman","asomn","omn",94072117.00000001,2020
+"Asia","as","Pakistan","aspak","pak",890236651,2020
+"Asia","as","Philippines","asphl","phl",229251531,2020
+"Asia","as","North Korea","asprk","prk",15377320,2020
+"Asia","as","Palestine","aspse","pse",3575747,2020
+"Asia","as","Qatar","asqat","qat",25057847,2020
+"Asia","as","Saudi Arabia","assau","sau",81172519,2020
+"Asia","as","Thailand","astha","tha",172917120,2020
+"Asia","as","Tajikistan","astjk","tjk",1592486,2020
+"Asia","as","Turkmenistan","astkm","tkm",3111683,2020
+"Asia","as","Turkey","astur","tur",1865439663,2020
+"Asia","as","Uzbekistan","asuzb","uzb",4867810,2020
+"Asia","as","Vietnam","asvnm","vnm",160337396,2020
+"Asia","as","Chinese Taipei","asxxb",,2118207,2020
+"Asia","as","Yemen","asyem","yem",318698828,2020
+"Europe","eu","Albania","eualb","alb",36953770,2020
+"Europe","eu","Austria","euaut","aut",129752.99999999999,2020
+"Europe","eu","Bulgaria","eubgr","bgr",1926481,2020
+"Europe","eu","Bosnia and Herzegovina","eubih","bih",15,2020
+"Europe","eu","Belarus","eublr","blr",2738163,2020
+"Europe","eu","Switzerland","euche","che",13838067.999999998,2020
+"Europe","eu","Czechia","eucze","cze",13829,2020
+"Europe","eu","Germany","eudeu","deu",2954444,2020
+"Europe","eu","Denmark","eudnk","dnk",814361,2020
+"Europe","eu","Spain","euesp","esp",75635276,2020
+"Europe","eu","Estonia","euest","est",1032194,2020
+"Europe","eu","Finland","eufin","fin",19221378,2020
+"Europe","eu","France","eufra","fra",2252,2020
+"Europe","eu","United Kingdom","eugbr","gbr",12039157,2020
+"Europe","eu","Greece","eugrc","grc",49302107,2020
+"Europe","eu","Italy","euita","ita",64606985,2020
+"Europe","eu","Lithuania","eultu","ltu",35798926,2020
+"Europe","eu","Latvia","eulva","lva",75200045,2020
+"Europe","eu","Moldova","eumda","mda",976703.9999999999,2020
+"Europe","eu","North Macedonia","eumkd","mkd",151584,2020
+"Europe","eu","Malta","eumlt","mlt",1359293.9999999998,2020
+"Europe","eu","Netherlands","eunld","nld",5198044,2020
+"Europe","eu","Norway","eunor","nor",4698070,2020
+"Europe","eu","Poland","eupol","pol",1640997,2020
+"Europe","eu","Romania","eurou","rou",10670838,2020
+"Europe","eu","Serbia","eusrb","srb",66200,2020
+"Europe","eu","Ukraine","euukr","ukr",2742497,2020
+"North America","na","Mexico","namex","mex",26054113,2020
+"North America","na","Nicaragua","nanic","nic",45686378,2020
+"North America","na","United States","nausa","usa",4559,2020
+"Oceania","oc","New Caledonia","ocncl","ncl",219140,2020
+"Oceania","oc","New Zealand","ocnzl","nzl",123465,2020
+"South America","sa","Brazil","sabra","bra",47865062.99999999,2020
+"South America","sa","Ecuador","saecu","ecu",8479527,2020

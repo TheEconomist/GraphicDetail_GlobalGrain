@@ -1,0 +1,60 @@
+"Continent","Continent ID","Country","Country ID","ISO 3","Trade Value","Year"
+"Africa","af","Benin","afben","ben",1738.0000000000002,2020
+"Africa","af","Algeria","afdza","dza",27325739,2020
+"Africa","af","Egypt","afegy","egy",940241.0000000001,2020
+"Africa","af","Ethiopia","afeth","eth",182149,2020
+"Africa","af","Libya","aflby","lby",107188850,2020
+"Africa","af","Morocco","afmar","mar",19175347,2020
+"Africa","af","Tunisia","aftun","tun",110511893,2020
+"Africa","af","South Africa","afzaf","zaf",42133,2020
+"Asia","as","United Arab Emirates","asare","are",41446392,2020
+"Asia","as","Armenia","asarm","arm",2614192,2020
+"Asia","as","Azerbaijan","asaze","aze",9877928,2020
+"Asia","as","Bangladesh","asbgd","bgd",3526656,2020
+"Asia","as","Bahrain","asbhr","bhr",62703.99999999999,2020
+"Asia","as","China","aschn","chn",474085674,2020
+"Asia","as","Cyprus","ascyp","cyp",6902212,2020
+"Asia","as","Georgia","asgeo","geo",1738765,2020
+"Asia","as","India","asind","ind",1053588,2020
+"Asia","as","Iran","asirn","irn",3614642.0000000005,2020
+"Asia","as","Israel","asisr","isr",50321144,2020
+"Asia","as","Jordan","asjor","jor",84803252,2020
+"Asia","as","Kazakhstan","askaz","kaz",11234667,2020
+"Asia","as","Kyrgyzstan","askgz","kgz",40321,2020
+"Asia","as","South Korea","askor","kor",11171,2020
+"Asia","as","Kuwait","askwt","kwt",36899858,2020
+"Asia","as","Lebanon","aslbn","lbn",5915315,2020
+"Asia","as","Sri Lanka","aslka","lka",463836,2020
+"Asia","as","Mongolia","asmng","mng",424293,2020
+"Asia","as","Malaysia","asmys","mys",18116.999999999996,2020
+"Asia","as","Oman","asomn","omn",5172687,2020
+"Asia","as","Pakistan","aspak","pak",238576,2020
+"Asia","as","Qatar","asqat","qat",21610200,2020
+"Asia","as","Saudi Arabia","assau","sau",631423329,2020
+"Asia","as","Thailand","astha","tha",66536.99999999999,2020
+"Asia","as","Tajikistan","astjk","tjk",3178,2020
+"Asia","as","Turkey","astur","tur",84891280,2020
+"Asia","as","Uzbekistan","asuzb","uzb",1362512.0000000002,2020
+"Asia","as","Vietnam","asvnm","vnm",390721,2020
+"Asia","as","Chinese Taipei","asxxb",,10261,2020
+"Europe","eu","Belgium","eubel","bel",47,2020
+"Europe","eu","Bulgaria","eubgr","bgr",6609,2020
+"Europe","eu","Belarus","eublr","blr",22079542,2020
+"Europe","eu","Switzerland","euche","che",92738,2020
+"Europe","eu","Germany","eudeu","deu",332,2020
+"Europe","eu","Spain","euesp","esp",5043183,2020
+"Europe","eu","Finland","eufin","fin",27.000000000000004,2020
+"Europe","eu","United Kingdom","eugbr","gbr",294747,2020
+"Europe","eu","Greece","eugrc","grc",641459.0000000001,2020
+"Europe","eu","Iceland","euisl","isl",30,2020
+"Europe","eu","Lithuania","eultu","ltu",468531,2020
+"Europe","eu","Moldova","eumda","mda",182352,2020
+"Europe","eu","Malta","eumlt","mlt",1,2020
+"Europe","eu","Netherlands","eunld","nld",255612,2020
+"Europe","eu","Poland","eupol","pol",2924,2020
+"Europe","eu","Romania","eurou","rou",6161927,2020
+"Europe","eu","Russia","eurus","rus",4570692,2020
+"Europe","eu","Slovakia","eusvk","svk",66033,2020
+"Europe","eu","Ukraine","euukr","ukr",2195382,2020
+"North America","na","United States","nausa","usa",15439,2020
+"South America","sa","Guyana","saguy","guy",7566,2020

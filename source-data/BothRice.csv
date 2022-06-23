@@ -1,0 +1,80 @@
+"Continent","Continent ID","Country","Country ID","ISO 3","Trade Value","Year"
+"Africa","af","Cameroon","afcmr","cmr",24,2020
+"Africa","af","Comoros","afcom","com",78,2020
+"Africa","af","Egypt","afegy","egy",3581,2020
+"Africa","af","Liberia","aflbr","lbr",4062,2020
+"Africa","af","Morocco","afmar","mar",35338,2020
+"Africa","af","Seychelles","afsyc","syc",100.99999999999999,2020
+"Africa","af","Togo","aftgo","tgo",182,2020
+"Asia","as","United Arab Emirates","asare","are",240337.00000000003,2020
+"Asia","as","Armenia","asarm","arm",939033,2020
+"Asia","as","Azerbaijan","asaze","aze",4887861.999999999,2020
+"Asia","as","China","aschn","chn",53131,2020
+"Asia","as","Cyprus","ascyp","cyp",3554,2020
+"Asia","as","Georgia","asgeo","geo",695103,2020
+"Asia","as","Hong Kong","ashkg","hkg",1109,2020
+"Asia","as","Indonesia","asidn","idn",7478,2020
+"Asia","as","India","asind","ind",53320,2020
+"Asia","as","Iraq","asirq","irq",100567,2020
+"Asia","as","Israel","asisr","isr",1400053,2020
+"Asia","as","Jordan","asjor","jor",4062650,2020
+"Asia","as","Japan","asjpn","jpn",106527,2020
+"Asia","as","Kazakhstan","askaz","kaz",4489018,2020
+"Asia","as","Kyrgyzstan","askgz","kgz",521043,2020
+"Asia","as","Cambodia","askhm","khm",239896,2020
+"Asia","as","South Korea","askor","kor",8651,2020
+"Asia","as","Kuwait","askwt","kwt",111270,2020
+"Asia","as","Lebanon","aslbn","lbn",404570.99999999994,2020
+"Asia","as","Mongolia","asmng","mng",5019091,2020
+"Asia","as","Malaysia","asmys","mys",8757,2020
+"Asia","as","Palestine","aspse","pse",767785,2020
+"Asia","as","Qatar","asqat","qat",40459,2020
+"Asia","as","Saudi Arabia","assau","sau",62001.99999999999,2020
+"Asia","as","Singapore","assgp","sgp",1419,2020
+"Asia","as","Tajikistan","astjk","tjk",960230,2020
+"Asia","as","Turkmenistan","astkm","tkm",49958,2020
+"Asia","as","Turkey","astur","tur",30218326,2020
+"Asia","as","Uzbekistan","asuzb","uzb",45370,2020
+"Asia","as","Vietnam","asvnm","vnm",215,2020
+"Asia","as","Chinese Taipei","asxxb",,75,2020
+"Europe","eu","Albania","eualb","alb",2598203.9999999995,2020
+"Europe","eu","Austria","euaut","aut",1356,2020
+"Europe","eu","Belgium","eubel","bel",4317121,2020
+"Europe","eu","Bulgaria","eubgr","bgr",67,2020
+"Europe","eu","Belarus","eublr","blr",3730521,2020
+"Europe","eu","Switzerland","euche","che",1,2020
+"Europe","eu","Germany","eudeu","deu",142087,2020
+"Europe","eu","Denmark","eudnk","dnk",4774,2020
+"Europe","eu","Estonia","euest","est",289,2020
+"Europe","eu","Finland","eufin","fin",129168,2020
+"Europe","eu","France","eufra","fra",13.000000000000002,2020
+"Europe","eu","United Kingdom","eugbr","gbr",10184,2020
+"Europe","eu","Greece","eugrc","grc",2930,2020
+"Europe","eu","Croatia","euhrv","hrv",25,2020
+"Europe","eu","Italy","euita","ita",3372.0000000000005,2020
+"Europe","eu","Luxembourg","eulux","lux",19,2020
+"Europe","eu","Latvia","eulva","lva",11499,2020
+"Europe","eu","Moldova","eumda","mda",927835,2020
+"Europe","eu","Malta","eumlt","mlt",586.0000000000001,2020
+"Europe","eu","Montenegro","eumne","mne",278,2020
+"Europe","eu","Netherlands","eunld","nld",87,2020
+"Europe","eu","Poland","eupol","pol",227054,2020
+"Europe","eu","Romania","eurou","rou",278184,2020
+"Europe","eu","Russia","eurus","rus",152,2020
+"Europe","eu","Serbia","eusrb","srb",15194,2020
+"Europe","eu","Slovakia","eusvk","svk",732,2020
+"Europe","eu","Slovenia","eusvn","svn",640,2020
+"Europe","eu","Sweden","euswe","swe",23074,2020
+"Europe","eu","Ukraine","euukr","ukr",3699106,2020
+"North America","na","Bahamas","nabhs","bhs",27.999999999999996,2020
+"North America","na","Belize","nablz","blz",12,2020
+"North America","na","Canada","nacan","can",56141,2020
+"North America","na","Cayman Islands","nacym","cym",295,2020
+"North America","na","Saint Kitts and Nevis","nakna","kna",6,2020
+"North America","na","Panama","napan","pan",2333,2020
+"North America","na","United States","nausa","usa",386245,2020
+"North America","na","British Virgin Islands","navgb","vgb",61,2020
+"Oceania","oc","Marshall Islands","ocmhl","mhl",809,2020
+"Oceania","oc","New Zealand","ocnzl","nzl",315,2020
+"Oceania","oc","French Polynesia","ocpyf","pyf",233,2020
+"Oceania","oc","Tuvalu","octuv","tuv",764,2020
