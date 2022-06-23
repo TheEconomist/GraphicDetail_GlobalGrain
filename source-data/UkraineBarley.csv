@@ -1,0 +1,45 @@
+"Continent","Continent ID","Country","Country ID","ISO 3","Trade Value","Year"
+"Africa","af","Benin","afben","ben",1738.0000000000002,2020
+"Africa","af","Algeria","afdza","dza",21134939,2020
+"Africa","af","Egypt","afegy","egy",940241.0000000001,2020
+"Africa","af","Libya","aflby","lby",69872704,2020
+"Africa","af","Morocco","afmar","mar",14726950,2020
+"Africa","af","Tunisia","aftun","tun",61038873,2020
+"Africa","af","South Africa","afzaf","zaf",42133,2020
+"Asia","as","United Arab Emirates","asare","are",16375813,2020
+"Asia","as","Azerbaijan","asaze","aze",24105.999999999996,2020
+"Asia","as","Bangladesh","asbgd","bgd",3526656,2020
+"Asia","as","Bahrain","asbhr","bhr",62703.99999999999,2020
+"Asia","as","China","aschn","chn",469702299,2020
+"Asia","as","Cyprus","ascyp","cyp",6902212,2020
+"Asia","as","Georgia","asgeo","geo",804,2020
+"Asia","as","India","asind","ind",1053588,2020
+"Asia","as","Iran","asirn","irn",3614642.0000000005,2020
+"Asia","as","Israel","asisr","isr",27320520,2020
+"Asia","as","Jordan","asjor","jor",9223171.999999998,2020
+"Asia","as","Kuwait","askwt","kwt",6761208.000000001,2020
+"Asia","as","Lebanon","aslbn","lbn",4499177,2020
+"Asia","as","Sri Lanka","aslka","lka",463836,2020
+"Asia","as","Malaysia","asmys","mys",10158.999999999998,2020
+"Asia","as","Oman","asomn","omn",702459,2020
+"Asia","as","Pakistan","aspak","pak",238576,2020
+"Asia","as","Qatar","asqat","qat",14425436.000000002,2020
+"Asia","as","Saudi Arabia","assau","sau",117680080,2020
+"Asia","as","Thailand","astha","tha",66536.99999999999,2020
+"Asia","as","Turkey","astur","tur",14220510,2020
+"Asia","as","Chinese Taipei","asxxb",,10261,2020
+"Europe","eu","Bulgaria","eubgr","bgr",6609,2020
+"Europe","eu","Belarus","eublr","blr",816993.9999999999,2020
+"Europe","eu","Switzerland","euche","che",92738,2020
+"Europe","eu","Germany","eudeu","deu",332,2020
+"Europe","eu","Spain","euesp","esp",5043183,2020
+"Europe","eu","United Kingdom","eugbr","gbr",294747,2020
+"Europe","eu","Greece","eugrc","grc",641459.0000000001,2020
+"Europe","eu","Moldova","eumda","mda",182240,2020
+"Europe","eu","Malta","eumlt","mlt",1,2020
+"Europe","eu","Netherlands","eunld","nld",255612,2020
+"Europe","eu","Poland","eupol","pol",2924,2020
+"Europe","eu","Romania","eurou","rou",6161927,2020
+"Europe","eu","Russia","eurus","rus",4570692,2020
+"Europe","eu","Slovakia","eusvk","svk",66033,2020
+"South America","sa","Guyana","saguy","guy",7566,2020

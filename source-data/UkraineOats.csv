@@ -1,0 +1,29 @@
+"Continent","Continent ID","Country","Country ID","ISO 3","Trade Value","Year"
+"Africa","af","Libya","aflby","lby",58038.00000000001,2020
+"Africa","af","Morocco","afmar","mar",330866.99999999994,2020
+"Africa","af","South Africa","afzaf","zaf",28392,2020
+"Asia","as","United Arab Emirates","asare","are",47561.00000000001,2020
+"Asia","as","Indonesia","asidn","idn",7308,2020
+"Asia","as","India","asind","ind",1217428.9999999998,2020
+"Asia","as","Iraq","asirq","irq",4485,2020
+"Asia","as","Israel","asisr","isr",65506,2020
+"Asia","as","Jordan","asjor","jor",40233.00000000001,2020
+"Asia","as","South Korea","askor","kor",43406.00000000001,2020
+"Asia","as","Kuwait","askwt","kwt",17327,2020
+"Asia","as","Lebanon","aslbn","lbn",5644,2020
+"Asia","as","Oman","asomn","omn",83993,2020
+"Asia","as","Pakistan","aspak","pak",182787,2020
+"Asia","as","Qatar","asqat","qat",124609,2020
+"Asia","as","Saudi Arabia","assau","sau",1815,2020
+"Europe","eu","Austria","euaut","aut",19410,2020
+"Europe","eu","Bulgaria","eubgr","bgr",64471,2020
+"Europe","eu","Switzerland","euche","che",149253,2020
+"Europe","eu","Czechia","eucze","cze",16164.000000000002,2020
+"Europe","eu","Germany","eudeu","deu",217505.99999999997,2020
+"Europe","eu","Spain","euesp","esp",127,2020
+"Europe","eu","Greece","eugrc","grc",7519,2020
+"Europe","eu","Hungary","euhun","hun",291199,2020
+"Europe","eu","Italy","euita","ita",180682.00000000003,2020
+"Europe","eu","Moldova","eumda","mda",963,2020
+"Europe","eu","Poland","eupol","pol",365030,2020
+"North America","na","United States","nausa","usa",30550,2020
